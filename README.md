@@ -1,4 +1,4 @@
-# javadsheikhalishahi-javadsheikhalishahi
+# javadsheikhalishahi
 
 👋 Hi, I'm Javad!
 💻 Full-stack Developer | Junior Backend | Passionate about TypeScript & Prisma
